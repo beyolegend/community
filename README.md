@@ -16,3 +16,5 @@
 [Git](http://git-scm.com/download)  
 
 [VP](http://www.visual-paradigm.com)
+
+[Flyway](https://flywaydb.org/getstarted/firststeps/maven)
